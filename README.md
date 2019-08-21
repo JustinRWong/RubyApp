@@ -1,6 +1,4 @@
-# RubyApp
-
-# README
+# RubyApp README
 # Ruby on Rails Tutorial
 
 
